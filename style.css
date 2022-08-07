@@ -635,8 +635,8 @@ h3.my-profesion {
 }
 
 .portfolio .portfolio-item {
-    flex: 0 0 33.33%;
-    max-width: 33.33%;
+    flex: 0 0 100%;
+    max-width: 100%;
     margin-bottom: 30px;
 }
 
@@ -648,7 +648,7 @@ h3.my-profesion {
 }
 
 .portfolio .portfolio-item-inner .portfolio-img img {
-    width: 100%;
+    width: 50%;
     display: block;
 }
 
